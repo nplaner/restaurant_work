@@ -17,7 +17,7 @@ export const Data = [
     img: product2,
     alt: 'Combo #2',
     name: 'Combo #2',
-    desc: 'Fried Rice, Chow Mein Plus 2 Entree',
+    desc: 'Fried Rice and Chow Mein Plus 2 Entrees of your choice',
     price: '$7.89',
   },
   {
