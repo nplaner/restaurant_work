@@ -18,7 +18,7 @@ export const Data = [
     alt: 'Combo #2',
     name: 'Combo #2',
     desc: 'Fried Rice and Chow Mein Plus 2 Entrees of your choice',
-    price: '$7.89',
+    price: '$7.99',
   },
   {
     img: product6,
@@ -35,7 +35,7 @@ export const Data2 = [
     alt: 'Bowl Special',
     name: 'Bowl Special',
     desc: 'Fried Rice, Chow Mein Plus 1 Entree in a bowl',
-    price: '$6.25',
+    price: '$6.28',
   },
   {
     img: product3,
