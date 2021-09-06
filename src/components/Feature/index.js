@@ -1,5 +1,5 @@
 import React from 'react'
-import menu from '../../images/menu2.jpg'
+import menu from '../../images/menu_back.jpg'
 import {
   FeatureContainer,
   FeatureButton,
